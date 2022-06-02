@@ -1,0 +1,6 @@
+code: et-app-go-templ
+titles:
+  en: Entando Demo MF with go MS
+  it: Entando Demo MF with go MS
+group: free
+customUiPath: et-widget.ftl

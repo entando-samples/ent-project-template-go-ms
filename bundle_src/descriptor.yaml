@@ -1,0 +1,8 @@
+code: ent-prj-tmpl-go-bundle
+description: Template for ent projects
+components:
+  plugins:
+    - plugins/entando-template-ms-plugin.yaml
+  widgets:
+    - ui/widgets/widgets-dir/et-widget/et-widget-descriptor.yaml
+

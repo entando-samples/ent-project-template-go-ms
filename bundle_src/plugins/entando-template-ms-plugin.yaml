@@ -1,0 +1,7 @@
+image: CHANGE-IT/go-kc-microservice:0.0.1-SNAPSHOT
+dbms: none
+ingressPath: "/entando-template-go-api"
+healthCheckPath: "/actuator/health"
+roles:
+  - "first-role"
+  - "second-role"
